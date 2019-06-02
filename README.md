@@ -7,3 +7,8 @@ Schematic pdf and PCB photos are provided.
 
 
 breakoutesp12e.zip is a gerber file.
+
+
+If you have any questions regarding the design or find any issues then just email me at nathan@cyberstorm.mu
+
+Happy Hacking :)
